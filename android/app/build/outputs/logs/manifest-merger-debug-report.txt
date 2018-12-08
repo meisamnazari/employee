@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b7e9b71d03e787f5e9780e061dafb3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24b33e394c9a8f07348c3fe3f93674da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d1a6c774e1990b106c8b0574f1cfcad5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02edd5907b1ea4de0743984b706b2096/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7484451a5e9968bbd178673b0bfc493e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fafdea03c81755dad93f62bd0fc3f6ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b3c7285c4137d0fa0b48b54614c81685/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b1ed8a1458c3fb9f4a0c75c46e0991b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/430f1a6dc04ad9229f18c3db03406f95/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/61284a8e30f8e556f1f5930d3eadf6d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/52709826c4adaeba3ac5325d28106bee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dea5f3a0423424abd0284f1f51bdd18f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d75ac8664ce0da865b15002354564af9/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/meisam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/2ec88cde1530c6faced026d75e5c7f3d/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b494c6dfa021cb27732b509bb26564a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83ab563a53fb576425676770fd6b57cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/b056e27fc49fb5b0e785250a6b3e3999/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6852699d39355a7b405876ca6d84b8f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f410cfb811ff2100f02560197670f321/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d75ac8664ce0da865b15002354564af9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d75ac8664ce0da865b15002354564af9/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/meisam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/2ec88cde1530c6faced026d75e5c7f3d/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/meisam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/2ec88cde1530c6faced026d75e5c7f3d/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.employee.MainActivity
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.6] /home/meisam/.gradle/caches/transforms-1/files-1.1/react-native-0.57.6.aar/bc162deca8c2e41598ca1defa9930c71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b7e9b71d03e787f5e9780e061dafb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b7e9b71d03e787f5e9780e061dafb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24b33e394c9a8f07348c3fe3f93674da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24b33e394c9a8f07348c3fe3f93674da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d1a6c774e1990b106c8b0574f1cfcad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d1a6c774e1990b106c8b0574f1cfcad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02edd5907b1ea4de0743984b706b2096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02edd5907b1ea4de0743984b706b2096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7484451a5e9968bbd178673b0bfc493e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7484451a5e9968bbd178673b0bfc493e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fafdea03c81755dad93f62bd0fc3f6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fafdea03c81755dad93f62bd0fc3f6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b3c7285c4137d0fa0b48b54614c81685/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b3c7285c4137d0fa0b48b54614c81685/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b1ed8a1458c3fb9f4a0c75c46e0991b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b1ed8a1458c3fb9f4a0c75c46e0991b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/430f1a6dc04ad9229f18c3db03406f95/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/430f1a6dc04ad9229f18c3db03406f95/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/61284a8e30f8e556f1f5930d3eadf6d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/61284a8e30f8e556f1f5930d3eadf6d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/52709826c4adaeba3ac5325d28106bee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/52709826c4adaeba3ac5325d28106bee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dea5f3a0423424abd0284f1f51bdd18f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dea5f3a0423424abd0284f1f51bdd18f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d75ac8664ce0da865b15002354564af9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/meisam/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d75ac8664ce0da865b15002354564af9/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b494c6dfa021cb27732b509bb26564a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b494c6dfa021cb27732b509bb26564a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83ab563a53fb576425676770fd6b57cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83ab563a53fb576425676770fd6b57cb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/b056e27fc49fb5b0e785250a6b3e3999/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/b056e27fc49fb5b0e785250a6b3e3999/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6852699d39355a7b405876ca6d84b8f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6852699d39355a7b405876ca6d84b8f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f410cfb811ff2100f02560197670f321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/meisam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f410cfb811ff2100f02560197670f321/AndroidManifest.xml:20:5-44
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/meisam/reactnative/employee/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
